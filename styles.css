@@ -77,3 +77,7 @@ body{
     content: "\2713\0020";
   }
   /* End failur part Style */
+  .instagram{
+    width: 300px;
+    height: 350px;
+  }
